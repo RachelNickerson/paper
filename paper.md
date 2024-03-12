@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Halle Stobart
-Rachel Nickerson
+Halle Stobart, University of Science
+Rachel Nickerson, University of Maps
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
