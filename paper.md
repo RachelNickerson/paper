@@ -28,3 +28,6 @@ We found exciting things out.
 Graphs
 Maps
 STATISTICS!!!
+
+# Conclusions
+The answer is always a bit of this and a bit of that.
