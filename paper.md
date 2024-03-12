@@ -1,8 +1,9 @@
 # Title
-Aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
 Rachel Nickerson
+Halle Stobart
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
@@ -11,3 +12,8 @@ Jones et al (1998) conducted several studies in this region, but continental sca
 
 A large uncertainty in modelling BBOA is the extent to which 
 measurements in the literature can be applied at a regional scale.
+
+# Simlations data
+1
+2
+3
