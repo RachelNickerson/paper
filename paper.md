@@ -23,3 +23,8 @@ We did things and stuff!!
 
 # Results
 We found exciting things out. 
+
+# Figures
+Graphs
+Maps
+STATISTICS!!!
